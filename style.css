@@ -29,6 +29,8 @@
 .navbar{
     height: 60px;
     width: 100%;
+    position: sticky;
+    top: 0;
     padding-inline: 4px;
     display: flex;
     align-items: center;
